@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Olá!+Sou+Guilherme+Henrique;Analista+e+Desenvolvedor+de+Sistemas;Especialista+em+Backend+e+Bancos+de+Dados;Soluções+em+Cloud+e+Automação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Ola,+Sou+Guilherme+Henrique;Analista+e+Desenvolvedor;Especialista+em+Backend+e+Dados;Solucoes+em+Cloud+e+Automacao" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Construindo softwares que resolvem problemas do mundo real 🚀</h3>
