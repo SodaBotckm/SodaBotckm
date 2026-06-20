@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Ola,+Sou+Guilherme+Henrique;Analista+e+Desenvolvedor;Especialista+em+Backend+e+Dados;Solucoes+em+Cloud+e+Automacao" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Guilherme%20Henrique&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Analista%20e%20Desenvolvedor%20de%20Sistemas&descAlignY=55&descAlign=62" alt="Header Animado" />
 </div>
 
 <h3 align="center">Construindo softwares que resolvem problemas do mundo real 🚀</h3>
